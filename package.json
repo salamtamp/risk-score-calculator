@@ -1,5 +1,5 @@
 {
-  "name": "risk-score-calculator",
+  "name": "@salamtam/risk-score-calculator",
   "version": "1.0.0",
   "description": "Risk Score Calculator Component",
   "main": "dist/lib.js",
@@ -22,8 +22,12 @@
     "calculator",
     "react"
   ],
-  "author": "salamtamp",
+  "author": "Salamtam (https://github.com/salamtam)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salamtamp/risk-score-calculator/issues"
+  },
+  "homepage": "https://github.com/salamtamp/risk-score-calculator#readme",
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
