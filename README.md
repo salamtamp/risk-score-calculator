@@ -1,6 +1,6 @@
 # risk-score-calculator
 
-Simple risk score calculation tool.
+Simple risk score calculation tool ([demo](https://dyshh93tawq7r.cloudfront.net/)).
 
 ## Install
 
